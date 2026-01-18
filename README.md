@@ -1,4 +1,4 @@
-<p align="center" width="70%">
+<p align="pull requestscenter" width="70%">
 <img src="https://i.postimg.cc/KvkLzbF9/WX20241212-014400-2x.png">
 </p>
 
